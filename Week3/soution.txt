@@ -166,23 +166,3 @@ for i in range(len(r)):
    print("emp branch:",(r[i][4]))
 con.commit()
 con.close()
-0 comments on commit 2e8f5df
-@hetanshi07
-Attach files by dragging & dropping, selecting or pasting them.
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-Add files via upload · vtcbca/week2-assignment-hetanshi07@2e8f5df
